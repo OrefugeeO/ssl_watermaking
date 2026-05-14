@@ -20,7 +20,7 @@
 
 ```bash
 # 克隆项目
-git clone <your-repo-url>
+git clone https://github.com/OrefugeeO/ssl_watermaking.git
 cd ssl_watermarking
 
 # 安装依赖
