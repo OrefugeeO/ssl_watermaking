@@ -18,15 +18,15 @@
 
 #### 0-bit 水印流程
 
-![0-bit 水印算法流程](extra/0bit.png)
+![0-bit 水印算法流程](extra/0bit.png?v=3cc8ed4)
 
 #### 多比特水印流程
 
-![多比特水印算法流程](extra/multibit.png)
+![多比特水印算法流程](extra/multibit.png?v=3cc8ed4)
 
 #### 视频水印流程
 
-![视频水印算法流程](extra/video.png)
+![视频水印算法流程](extra/video.png?v=3cc8ed4)
 
 ---
 
