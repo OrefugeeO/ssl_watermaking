@@ -1,0 +1,30 @@
+0bit：
+编码
+python main_0bit.py --data_dir ./workspace/input/input_images/ --model_path .\models\dino_r50_plus.pth --normlayer_path normlayers/out2048_yfcc_orig.pth --mode 1 
+python main_0bit.py --data_dir ./workspace/input/input_images/ --model_path .\models\dino_r50_plus.pth --normlayer_path normlayers/out2048_yfcc_orig.pth --mode 1 --key "2026_Watermark"
+解码
+python main_0bit.py --data_dir ./workspace/output/encoded_output/0bit/test/imgs/  --model_path .\models\dino_r50_plus.pth --normlayer_path normlayers/out2048_yfcc_orig.pth --mode 2 
+python main_0bit.py --data_dir ./workspace/output/encoded_output/0bit/2026_Watermark/imgs/  --model_path .\models\dino_r50_plus.pth --normlayer_path normlayers/out2048_yfcc_orig.pth --mode 2 --key "2026_Watermark"
+溯源
+python main_0bit.py --data_dir ./workspace/output/encoded_output/0bit/test/imgs/  --model_path .\models\dino_r50_plus.pth --normlayer_path normlayers/out2048_yfcc_orig.pth --mode 3  
+python main_0bit.py --data_dir ./workspace/output/encoded_output/0bit/2026_Watermark/imgs/  --model_path .\models\dino_r50_plus.pth --normlayer_path normlayers/out2048_yfcc_orig.pth --mode 3   --key "2026_Watermark"
+
+
+multibit：
+编码
+python main_multibit.py --data_dir ./workspace/input/input_images/ --model_path models/dino_r50_plus.pth --normlayer_path normlayers/out2048_coco_resized.pth  --mode 1 --use_bch True
+python main_multibit.py --data_dir ./workspace/input/input_images/ --model_path models/dino_r50_plus.pth --normlayer_path normlayers/out2048_coco_resized.pth  --mode 1 --use_bch True --key "2026_Watermark"
+解码
+python main_multibit.py --data_dir ./workspace/output/encoded_output/multibit/test/imgs/  --model_path models/dino_r50_plus.pth --normlayer_path normlayers/out2048_coco_resized.pth --mode 2 --use_bch True
+python main_multibit.py --data_dir ./workspace/output/encoded_output/multibit/2026_Watermark/imgs/  --model_path models/dino_r50_plus.pth --normlayer_path normlayers/out2048_coco_resized.pth --mode 2 --use_bch True --key "2026_Watermark"
+溯源
+python main_multibit.py --data_dir ./workspace/output/encoded_output/multibit/test/imgs/  --model_path models/dino_r50_plus.pth --normlayer_path normlayers/out2048_coco_resized.pth --mode 3
+python main_multibit.py --data_dir ./workspace/output/encoded_output/multibit/2026_Watermark/imgs/  --model_path models/dino_r50_plus.pth --normlayer_path normlayers/out2048_coco_resized.pth --mode 3 --key "2026_Watermark"
+
+
+
+video:
+编码
+python .\main_video.py --mode encode --msg_path .\workspace\input\input_videos\0\msgs.txt --input_video_path .\workspace\input\input_videos\0\0.mp4 --msg_path .\workspace\input\input_videos\0\msgs.txt --use_bch True   --key "video_Watermark"
+溯源
+python .\main_video.py --mode trace --input_video_path .\workspace\output\video_output\0\0_encoded.mp4 --use_bch True 

@@ -1,0 +1,76 @@
+index,filename,marked
+0,"0_'attack'_ 'blur', 'kernel_size'_ 11.png",True
+1,"0_'attack'_ 'blur', 'kernel_size'_ 13.png",True
+2,"0_'attack'_ 'blur', 'kernel_size'_ 15.png",True
+3,"0_'attack'_ 'blur', 'kernel_size'_ 17.png",True
+4,"0_'attack'_ 'blur', 'kernel_size'_ 19.png",True
+5,"0_'attack'_ 'blur', 'kernel_size'_ 3.png",True
+6,"0_'attack'_ 'blur', 'kernel_size'_ 5.png",True
+7,"0_'attack'_ 'blur', 'kernel_size'_ 7.png",True
+8,"0_'attack'_ 'blur', 'kernel_size'_ 9.png",True
+9,"0_'attack'_ 'brightness', 'brightness_factor'_ 0.5.png",True
+10,"0_'attack'_ 'brightness', 'brightness_factor'_ 1.0.png",True
+11,"0_'attack'_ 'brightness', 'brightness_factor'_ 1.5.png",True
+12,"0_'attack'_ 'brightness', 'brightness_factor'_ 2.0.png",True
+13,"0_'attack'_ 'center_crop', 'scale'_ 0.1.png",True
+14,"0_'attack'_ 'center_crop', 'scale'_ 0.2.png",True
+15,"0_'attack'_ 'center_crop', 'scale'_ 0.30000000000000004.png",True
+16,"0_'attack'_ 'center_crop', 'scale'_ 0.4.png",True
+17,"0_'attack'_ 'center_crop', 'scale'_ 0.5.png",True
+18,"0_'attack'_ 'center_crop', 'scale'_ 0.6000000000000001.png",True
+19,"0_'attack'_ 'center_crop', 'scale'_ 0.7000000000000001.png",True
+20,"0_'attack'_ 'center_crop', 'scale'_ 0.8.png",True
+21,"0_'attack'_ 'center_crop', 'scale'_ 0.9.png",True
+22,"0_'attack'_ 'center_crop', 'scale'_ 1.0.png",True
+23,"0_'attack'_ 'contrast', 'contrast_factor'_ 0.0.png",False
+24,"0_'attack'_ 'contrast', 'contrast_factor'_ 0.5.png",True
+25,"0_'attack'_ 'contrast', 'contrast_factor'_ 1.0.png",True
+26,"0_'attack'_ 'contrast', 'contrast_factor'_ 1.5.png",True
+27,"0_'attack'_ 'contrast', 'contrast_factor'_ 2.0.png",True
+28,"0_'attack'_ 'hue', 'hue_factor'_ -0.25.png",True
+29,"0_'attack'_ 'hue', 'hue_factor'_ -0.5.png",True
+30,"0_'attack'_ 'hue', 'hue_factor'_ 0.0.png",True
+31,"0_'attack'_ 'hue', 'hue_factor'_ 0.2.png",True
+32,"0_'attack'_ 'hue', 'hue_factor'_ 0.25.png",True
+33,"0_'attack'_ 'hue', 'hue_factor'_ 0.5.png",True
+34,"0_'attack'_ 'jpeg', 'quality'_ 10.png",False
+35,"0_'attack'_ 'jpeg', 'quality'_ 100.png",True
+36,"0_'attack'_ 'jpeg', 'quality'_ 20.png",False
+37,"0_'attack'_ 'jpeg', 'quality'_ 30.png",False
+38,"0_'attack'_ 'jpeg', 'quality'_ 40.png",True
+39,"0_'attack'_ 'jpeg', 'quality'_ 50.png",True
+40,"0_'attack'_ 'jpeg', 'quality'_ 60.png",True
+41,"0_'attack'_ 'jpeg', 'quality'_ 70.png",True
+42,"0_'attack'_ 'jpeg', 'quality'_ 80.png",True
+43,"0_'attack'_ 'jpeg', 'quality'_ 90.png",True
+44,0_'attack'_ 'meme_format'.png,True
+45,0_'attack'_ 'none'.png,True
+46,0_'attack'_ 'overlay_onto_screenshot'.png,False
+47,"0_'attack'_ 'resize', 'scale'_ 0.1.png",False
+48,"0_'attack'_ 'resize', 'scale'_ 0.2.png",False
+49,"0_'attack'_ 'resize', 'scale'_ 0.30000000000000004.png",False
+50,"0_'attack'_ 'resize', 'scale'_ 0.4.png",False
+51,"0_'attack'_ 'resize', 'scale'_ 0.5.png",True
+52,"0_'attack'_ 'resize', 'scale'_ 0.6000000000000001.png",True
+53,"0_'attack'_ 'resize', 'scale'_ 0.7000000000000001.png",True
+54,"0_'attack'_ 'resize', 'scale'_ 0.8.png",True
+55,"0_'attack'_ 'resize', 'scale'_ 0.9.png",True
+56,"0_'attack'_ 'resize', 'scale'_ 1.0.png",True
+57,"0_'attack'_ 'rotation', 'angle'_ 0.png",True
+58,"0_'attack'_ 'rotation', 'angle'_ 10.png",True
+59,"0_'attack'_ 'rotation', 'angle'_ 15.png",True
+60,"0_'attack'_ 'rotation', 'angle'_ 20.png",True
+61,"0_'attack'_ 'rotation', 'angle'_ 25.png",True
+62,"0_'attack'_ 'rotation', 'angle'_ 30.png",True
+63,"0_'attack'_ 'rotation', 'angle'_ 35.png",True
+64,"0_'attack'_ 'rotation', 'angle'_ 40.png",True
+65,"0_'attack'_ 'rotation', 'angle'_ 5.png",True
+66,0_out.png,True
+67,1_out.png,True
+68,2_out.png,True
+69,3_out.png,True
+70,4_out.png,True
+71,5_out.png,True
+72,6_out.png,True
+73,7_out.png,True
+74,8_out.png,True

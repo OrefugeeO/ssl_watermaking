@@ -1,0 +1,304 @@
+# confidence = 1 - 10^(log10_pvalue)
+# matched = confidence > threshold
+# threshold = 0.95
+index,filename,carrier_name,R,log10_pvalue,confidence,matched
+0,"0_'attack'_ 'blur', 'kernel_size'_ 11.png",carrier_0bit_2026_Watermark,3685747.75,-49.54099652041015,1.0,True
+1,"0_'attack'_ 'blur', 'kernel_size'_ 13.png",carrier_0bit_2026_Watermark,2734971.0,-42.94359226923281,1.0,True
+2,"0_'attack'_ 'blur', 'kernel_size'_ 15.png",carrier_0bit_2026_Watermark,1879072.75,-33.24053646773918,1.0,True
+3,"0_'attack'_ 'blur', 'kernel_size'_ 17.png",carrier_0bit_2026_Watermark,1090904.75,-23.150810876451516,1.0,True
+5,"0_'attack'_ 'blur', 'kernel_size'_ 3.png",carrier_0bit_2026_Watermark,9453125.0,-66.34605926313539,1.0,True
+6,"0_'attack'_ 'blur', 'kernel_size'_ 5.png",carrier_0bit_2026_Watermark,7886088.0,-64.15397969039441,1.0,True
+7,"0_'attack'_ 'blur', 'kernel_size'_ 7.png",carrier_0bit_2026_Watermark,6204872.5,-59.50967170363136,1.0,True
+8,"0_'attack'_ 'blur', 'kernel_size'_ 9.png",carrier_0bit_2026_Watermark,4752920.0,-55.47271428763154,1.0,True
+9,"0_'attack'_ 'brightness', 'brightness_factor'_ 0.5.png",carrier_0bit_2026_Watermark,8668899.0,-66.27777558071863,1.0,True
+10,"0_'attack'_ 'brightness', 'brightness_factor'_ 1.0.png",carrier_0bit_2026_Watermark,11530438.0,-68.82598951762714,1.0,True
+11,"0_'attack'_ 'brightness', 'brightness_factor'_ 1.5.png",carrier_0bit_2026_Watermark,9315923.0,-62.70204515990179,1.0,True
+12,"0_'attack'_ 'brightness', 'brightness_factor'_ 2.0.png",carrier_0bit_2026_Watermark,6013157.0,-50.242960376461,1.0,True
+15,"0_'attack'_ 'center_crop', 'scale'_ 0.30000000000000004.png",carrier_0bit_2026_Watermark,2038207.625,-19.835587038121606,1.0,True
+16,"0_'attack'_ 'center_crop', 'scale'_ 0.4.png",carrier_0bit_2026_Watermark,2947910.75,-27.222429428823038,1.0,True
+17,"0_'attack'_ 'center_crop', 'scale'_ 0.5.png",carrier_0bit_2026_Watermark,2775668.5,-34.08511424383019,1.0,True
+18,"0_'attack'_ 'center_crop', 'scale'_ 0.6000000000000001.png",carrier_0bit_2026_Watermark,2083224.125,-28.941615643803917,1.0,True
+19,"0_'attack'_ 'center_crop', 'scale'_ 0.7000000000000001.png",carrier_0bit_2026_Watermark,4087838.0,-42.71975163836888,1.0,True
+20,"0_'attack'_ 'center_crop', 'scale'_ 0.8.png",carrier_0bit_2026_Watermark,2573356.0,-38.52888925781504,1.0,True
+21,"0_'attack'_ 'center_crop', 'scale'_ 0.9.png",carrier_0bit_2026_Watermark,2473209.75,-40.004083458525514,1.0,True
+22,"0_'attack'_ 'center_crop', 'scale'_ 1.0.png",carrier_0bit_2026_Watermark,11530438.0,-68.82598951762714,1.0,True
+24,"0_'attack'_ 'contrast', 'contrast_factor'_ 0.5.png",carrier_0bit_2026_Watermark,8742782.0,-63.675319652528316,1.0,True
+25,"0_'attack'_ 'contrast', 'contrast_factor'_ 1.0.png",carrier_0bit_2026_Watermark,11530438.0,-68.82598951762714,1.0,True
+26,"0_'attack'_ 'contrast', 'contrast_factor'_ 1.5.png",carrier_0bit_2026_Watermark,3832973.25,-51.61393447376542,1.0,True
+27,"0_'attack'_ 'contrast', 'contrast_factor'_ 2.0.png",carrier_0bit_2026_Watermark,1555745.0,-35.37716101450008,1.0,True
+28,"0_'attack'_ 'hue', 'hue_factor'_ -0.25.png",carrier_0bit_2026_Watermark,2955240.25,-46.1162514159717,1.0,True
+29,"0_'attack'_ 'hue', 'hue_factor'_ -0.5.png",carrier_0bit_2026_Watermark,2375554.0,-41.63679246647244,1.0,True
+30,"0_'attack'_ 'hue', 'hue_factor'_ 0.0.png",carrier_0bit_2026_Watermark,11426679.0,-68.77478079389509,1.0,True
+31,"0_'attack'_ 'hue', 'hue_factor'_ 0.2.png",carrier_0bit_2026_Watermark,5332030.5,-51.68011409641431,1.0,True
+32,"0_'attack'_ 'hue', 'hue_factor'_ 0.25.png",carrier_0bit_2026_Watermark,4761718.0,-52.01081790721773,1.0,True
+33,"0_'attack'_ 'hue', 'hue_factor'_ 0.5.png",carrier_0bit_2026_Watermark,2400308.0,-41.78256677630687,1.0,True
+35,"0_'attack'_ 'jpeg', 'quality'_ 100.png",carrier_0bit_2026_Watermark,9207107.0,-65.5741348164547,1.0,True
+41,"0_'attack'_ 'jpeg', 'quality'_ 70.png",carrier_0bit_2026_Watermark,713581.625,-20.818118044576348,1.0,True
+42,"0_'attack'_ 'jpeg', 'quality'_ 80.png",carrier_0bit_2026_Watermark,1584785.75,-35.06036145605102,1.0,True
+43,"0_'attack'_ 'jpeg', 'quality'_ 90.png",carrier_0bit_2026_Watermark,3436885.5,-50.69445946936678,1.0,True
+44,0_'attack'_ 'meme_format'.png,carrier_0bit_2026_Watermark,1282286.75,-42.38607671756454,1.0,True
+45,0_'attack'_ 'none'.png,carrier_0bit_2026_Watermark,11530438.0,-68.82598951762714,1.0,True
+52,"0_'attack'_ 'resize', 'scale'_ 0.6000000000000001.png",carrier_0bit_2026_Watermark,833639.25,-18.98451535635798,1.0,True
+53,"0_'attack'_ 'resize', 'scale'_ 0.7000000000000001.png",carrier_0bit_2026_Watermark,1707908.375,-29.227075820190006,1.0,True
+54,"0_'attack'_ 'resize', 'scale'_ 0.8.png",carrier_0bit_2026_Watermark,2534694.25,-37.86211705589979,1.0,True
+55,"0_'attack'_ 'resize', 'scale'_ 0.9.png",carrier_0bit_2026_Watermark,2816038.5,-41.55331947160861,1.0,True
+56,"0_'attack'_ 'resize', 'scale'_ 1.0.png",carrier_0bit_2026_Watermark,11530438.0,-68.82598951762714,1.0,True
+57,"0_'attack'_ 'rotation', 'angle'_ 0.png",carrier_0bit_2026_Watermark,11530438.0,-68.82598951762714,1.0,True
+58,"0_'attack'_ 'rotation', 'angle'_ 10.png",carrier_0bit_2026_Watermark,2018249.5,-36.11605036415222,1.0,True
+59,"0_'attack'_ 'rotation', 'angle'_ 15.png",carrier_0bit_2026_Watermark,1601601.25,-31.67886345871093,1.0,True
+60,"0_'attack'_ 'rotation', 'angle'_ 20.png",carrier_0bit_2026_Watermark,1766254.375,-35.290336290127016,1.0,True
+61,"0_'attack'_ 'rotation', 'angle'_ 25.png",carrier_0bit_2026_Watermark,1310769.375,-31.12522446437987,1.0,True
+62,"0_'attack'_ 'rotation', 'angle'_ 30.png",carrier_0bit_2026_Watermark,1282462.5,-29.075449435953114,1.0,True
+63,"0_'attack'_ 'rotation', 'angle'_ 35.png",carrier_0bit_2026_Watermark,1057393.5,-27.827860533279303,1.0,True
+64,"0_'attack'_ 'rotation', 'angle'_ 40.png",carrier_0bit_2026_Watermark,1068383.25,-28.011999845692273,1.0,True
+65,"0_'attack'_ 'rotation', 'angle'_ 5.png",carrier_0bit_2026_Watermark,2274773.75,-36.94947957958421,1.0,True
+66,0_out.png,carrier_0bit_2026_Watermark,11530438.0,-68.82598951762714,1.0,True
+67,1_out.png,carrier_0bit_2026_Watermark,4554893.0,-106.65795830640825,1.0,True
+68,2_out.png,carrier_0bit_2026_Watermark,24935668.0,-43.811791220963,1.0,True
+69,3_out.png,carrier_0bit_2026_Watermark,4915657.5,-106.46903809541809,1.0,True
+70,4_out.png,carrier_0bit_2026_Watermark,11042298.0,-69.0708695683613,1.0,True
+71,5_out.png,carrier_0bit_2026_Watermark,3646948.0,-74.32347164981358,1.0,True
+72,6_out.png,carrier_0bit_2026_Watermark,1857522.125,-37.8081191336656,1.0,True
+73,7_out.png,carrier_0bit_2026_Watermark,7999140.0,-52.54134382545385,1.0,True
+74,8_out.png,carrier_0bit_2026_Watermark,4398267.0,-110.57882938121007,1.0,True
+4,"0_'attack'_ 'blur', 'kernel_size'_ 19.png",carrier_0bit_2026_Watermark,546403.4375,-15.568258975596338,0.9999999999999998,True
+40,"0_'attack'_ 'jpeg', 'quality'_ 60.png",carrier_0bit_2026_Watermark,429410.5,-15.644862644149379,0.9999999999999998,True
+14,"0_'attack'_ 'center_crop', 'scale'_ 0.2.png",carrier_0bit_2026_Watermark,1254112.625,-12.45565754283263,0.9999999999996497,True
+39,"0_'attack'_ 'jpeg', 'quality'_ 50.png",carrier_0bit_2026_Watermark,211664.0,-10.861446928380179,0.9999999999862421,True
+51,"0_'attack'_ 'resize', 'scale'_ 0.5.png",carrier_0bit_2026_Watermark,275166.46875,-10.383053555768907,0.9999999999586051,True
+38,"0_'attack'_ 'jpeg', 'quality'_ 40.png",carrier_0bit_2026_Watermark,115413.375,-8.664876070621913,0.9999999978366643,True
+13,"0_'attack'_ 'center_crop', 'scale'_ 0.1.png",carrier_0bit_2026_Watermark,578057.875,-7.710838365260703,0.9999999805391576,True
+37,"0_'attack'_ 'jpeg', 'quality'_ 30.png",carrier_0bit_2026_Watermark,7483.890625,-6.189338034157378,0.9999993533608933,True
+50,"0_'attack'_ 'resize', 'scale'_ 0.4.png",carrier_0bit_2026_Watermark,-194482.25,-3.7864375427551398,0.9998364831707123,True
+46,0_'attack'_ 'overlay_onto_screenshot'.png,carrier_0bit_2026_Watermark,-17824.94140625,-3.1194153030555696,0.999240400453213,True
+36,"0_'attack'_ 'jpeg', 'quality'_ 20.png",carrier_0bit_2026_Watermark,-147345.609375,-2.4780462798399263,0.996673758941069,True
+49,"0_'attack'_ 'resize', 'scale'_ 0.30000000000000004.png",carrier_0bit_2026_Watermark,-390498.8125,-2.061686815271848,0.9913241270265535,True
+42,"0_'attack'_ 'jpeg', 'quality'_ 80.png",carrier_0bit_test,-266239.5,-0.9606918020664516,0.8905267029913623,False
+34,"0_'attack'_ 'jpeg', 'quality'_ 10.png",carrier_0bit_2026_Watermark,-209152.5625,-0.7953503342667958,0.8398047384925564,False
+40,"0_'attack'_ 'jpeg', 'quality'_ 60.png",carrier_0bit_test,-221490.4375,-0.7694674374526118,0.8299672563924829,False
+67,1_out.png,carrier_0bit_test,-250176.421875,-0.625355389145137,0.7630566028279151,False
+4,"0_'attack'_ 'blur', 'kernel_size'_ 19.png",carrier_0bit_test,-291852.4375,-0.5895895300626439,0.7427173679905446,False
+38,"0_'attack'_ 'jpeg', 'quality'_ 40.png",carrier_0bit_test,-223612.78125,-0.525128502758491,0.7015500590902606,False
+3,"0_'attack'_ 'blur', 'kernel_size'_ 17.png",carrier_0bit_test,-329837.71875,-0.5100840309852033,0.691030244625209,False
+41,"0_'attack'_ 'jpeg', 'quality'_ 70.png",carrier_0bit_test,-249439.53125,-0.5080604147567264,0.6895872257485273,False
+69,3_out.png,carrier_0bit_test,-275332.25,-0.4964970182151341,0.681211253693883,False
+53,"0_'attack'_ 'resize', 'scale'_ 0.7000000000000001.png",carrier_0bit_test,-384646.09375,-0.47653800714308975,0.6662187068756601,False
+68,2_out.png,carrier_0bit_test,-3512207.75,-0.43436426296588687,0.6321796637841526,False
+23,"0_'attack'_ 'contrast', 'contrast_factor'_ 0.0.png",carrier_0bit_2026_Watermark,-42115.71875,-0.4274950138798106,0.6263155843844344,False
+43,"0_'attack'_ 'jpeg', 'quality'_ 90.png",carrier_0bit_test,-412882.59375,-0.42120686030321197,0.6208656448340217,False
+39,"0_'attack'_ 'jpeg', 'quality'_ 50.png",carrier_0bit_test,-228046.75,-0.40351861078154755,0.6051052234032113,False
+46,0_'attack'_ 'overlay_onto_screenshot'.png,carrier_0bit_test,-32986.5,-0.3908145899209318,0.5933831139940098,False
+36,"0_'attack'_ 'jpeg', 'quality'_ 20.png",carrier_0bit_test,-224305.34375,-0.38349816593152153,0.5864749392989197,False
+73,7_out.png,carrier_0bit_test,-938214.375,-0.29124041722941174,0.48860134347915296,False
+28,"0_'attack'_ 'hue', 'hue_factor'_ -0.25.png",carrier_0bit_test,-399765.125,-0.28910055465951173,0.4860753540761651,False
+64,"0_'attack'_ 'rotation', 'angle'_ 40.png",carrier_0bit_test,-259560.796875,-0.2792132298135806,0.47424093406556267,False
+70,4_out.png,carrier_0bit_test,-972915.625,-0.2768234552776917,0.4713398866754116,False
+74,8_out.png,carrier_0bit_test,-244093.171875,-0.2690958945685024,0.461849057239752,False
+19,"0_'attack'_ 'center_crop', 'scale'_ 0.7000000000000001.png",carrier_0bit_test,-603744.3125,-0.26388367726135153,0.455351486398342,False
+37,"0_'attack'_ 'jpeg', 'quality'_ 30.png",carrier_0bit_test,-211292.640625,-0.26020586876291885,0.4507195634597151,False
+5,"0_'attack'_ 'blur', 'kernel_size'_ 3.png",carrier_0bit_test,-869577.5,-0.25981241795769117,0.4502217151939082,False
+2,"0_'attack'_ 'blur', 'kernel_size'_ 15.png",carrier_0bit_test,-371333.5,-0.2543616970790162,0.443278103517434,False
+47,"0_'attack'_ 'resize', 'scale'_ 0.1.png",carrier_0bit_2026_Watermark,-1676412.75,-0.25334724902208505,0.4419761630413245,False
+72,6_out.png,carrier_0bit_test,-315894.40625,-0.2444414784144621,0.43041502893820904,False
+9,"0_'attack'_ 'brightness', 'brightness_factor'_ 0.5.png",carrier_0bit_test,-799493.5625,-0.24394062761385588,0.42975777524965075,False
+0,"0_'attack'_ 'blur', 'kernel_size'_ 11.png",carrier_0bit_test,-463095.0625,-0.23955161441473127,0.4239656452225542,False
+29,"0_'attack'_ 'hue', 'hue_factor'_ -0.5.png",carrier_0bit_test,-362024.15625,-0.23863336528237403,0.42274642037082943,False
+33,"0_'attack'_ 'hue', 'hue_factor'_ 0.5.png",carrier_0bit_test,-364505.28125,-0.2341377896985982,0.4167399774543541,False
+6,"0_'attack'_ 'blur', 'kernel_size'_ 5.png",carrier_0bit_test,-753260.3125,-0.2294539287921041,0.4104154814301786,False
+50,"0_'attack'_ 'resize', 'scale'_ 0.4.png",carrier_0bit_test,-474836.3125,-0.22479268311706332,0.40405344047262826,False
+1,"0_'attack'_ 'blur', 'kernel_size'_ 13.png",carrier_0bit_test,-403055.46875,-0.22442433130475312,0.4035477671931781,False
+58,"0_'attack'_ 'rotation', 'angle'_ 10.png",carrier_0bit_test,-362698.84375,-0.22261261514275044,0.40105439168613966,False
+48,"0_'attack'_ 'resize', 'scale'_ 0.2.png",carrier_0bit_2026_Watermark,-810421.0,-0.21948753150478298,0.3967289725488271,False
+8,"0_'attack'_ 'blur', 'kernel_size'_ 9.png",carrier_0bit_test,-530165.5,-0.20626824968090265,0.37808397094341084,False
+21,"0_'attack'_ 'center_crop', 'scale'_ 0.9.png",carrier_0bit_test,-395556.8125,-0.20619542976453875,0.3779796830186929,False
+13,"0_'attack'_ 'center_crop', 'scale'_ 0.1.png",carrier_0bit_test,-1811197.375,-0.20286972058834457,0.3731981358603802,False
+24,"0_'attack'_ 'contrast', 'contrast_factor'_ 0.5.png",carrier_0bit_test,-843715.125,-0.20084731179915122,0.3702724579753117,False
+47,"0_'attack'_ 'resize', 'scale'_ 0.1.png",carrier_0bit_test,-1685882.375,-0.18961033216395748,0.3537662020333233,False
+52,"0_'attack'_ 'resize', 'scale'_ 0.6000000000000001.png",carrier_0bit_test,-344206.5625,-0.18891316011834378,0.3527279711240774,False
+60,"0_'attack'_ 'rotation', 'angle'_ 20.png",carrier_0bit_test,-327128.5625,-0.1863627707055798,0.3489156906544786,False
+16,"0_'attack'_ 'center_crop', 'scale'_ 0.4.png",carrier_0bit_test,-748725.9375,-0.18563533445835412,0.3478242211037421,False
+63,"0_'attack'_ 'rotation', 'angle'_ 35.png",carrier_0bit_test,-261276.96875,-0.18339831258683315,0.34445624054799506,False
+48,"0_'attack'_ 'resize', 'scale'_ 0.2.png",carrier_0bit_test,-813379.6875,-0.1753717633466979,0.332227951213508,False
+10,"0_'attack'_ 'brightness', 'brightness_factor'_ 1.0.png",carrier_0bit_test,-1028945.75,-0.17485581807005665,0.3314341613213121,False
+22,"0_'attack'_ 'center_crop', 'scale'_ 1.0.png",carrier_0bit_test,-1028945.75,-0.17485581807005665,0.3314341613213121,False
+25,"0_'attack'_ 'contrast', 'contrast_factor'_ 1.0.png",carrier_0bit_test,-1028945.75,-0.17485581807005665,0.3314341613213121,False
+45,0_'attack'_ 'none'.png,carrier_0bit_test,-1028945.75,-0.17485581807005665,0.3314341613213121,False
+56,"0_'attack'_ 'resize', 'scale'_ 1.0.png",carrier_0bit_test,-1028945.75,-0.17485581807005665,0.3314341613213121,False
+57,"0_'attack'_ 'rotation', 'angle'_ 0.png",carrier_0bit_test,-1028945.75,-0.17485581807005665,0.3314341613213121,False
+66,0_out.png,carrier_0bit_test,-1028945.75,-0.17485581807005665,0.3314341613213121,False
+30,"0_'attack'_ 'hue', 'hue_factor'_ 0.0.png",carrier_0bit_test,-1020753.5,-0.17115320882972088,0.32570988788145494,False
+35,"0_'attack'_ 'jpeg', 'quality'_ 100.png",carrier_0bit_test,-863913.6875,-0.17065783957814318,0.32494033364433983,False
+34,"0_'attack'_ 'jpeg', 'quality'_ 10.png",carrier_0bit_test,-226422.9375,-0.16737104133583283,0.3198120111170464,False
+71,5_out.png,carrier_0bit_test,-301250.53125,-0.16051303853233267,0.30898581676245307,False
+7,"0_'attack'_ 'blur', 'kernel_size'_ 7.png",carrier_0bit_test,-644872.5,-0.15844995177789956,0.3056953910314164,False
+62,"0_'attack'_ 'rotation', 'angle'_ 30.png",carrier_0bit_test,-300656.90625,-0.1561727538915032,0.30204528394920116,False
+59,"0_'attack'_ 'rotation', 'angle'_ 15.png",carrier_0bit_test,-338150.96875,-0.15422455363463322,0.2989072979948464,False
+61,"0_'attack'_ 'rotation', 'angle'_ 25.png",carrier_0bit_test,-282790.96875,-0.1505711480954949,0.2929846352766108,False
+26,"0_'attack'_ 'contrast', 'contrast_factor'_ 1.5.png",carrier_0bit_test,-464523.8125,-0.1332134650867327,0.26415467522488434,False
+20,"0_'attack'_ 'center_crop', 'scale'_ 0.8.png",carrier_0bit_test,-432260.375,-0.1247118166455146,0.24960802071112476,False
+54,"0_'attack'_ 'resize', 'scale'_ 0.8.png",carrier_0bit_test,-434723.28125,-0.11289865399693462,0.22891661360944404,False
+55,"0_'attack'_ 'resize', 'scale'_ 0.9.png",carrier_0bit_test,-434529.4375,-0.10193333705640892,0.20919999580840376,False
+11,"0_'attack'_ 'brightness', 'brightness_factor'_ 1.5.png",carrier_0bit_test,-920181.875,-0.09502852427866985,0.19652665133859537,False
+14,"0_'attack'_ 'center_crop', 'scale'_ 0.2.png",carrier_0bit_test,-1046398.5625,-0.09453263442385033,0.19560869852717244,False
+51,"0_'attack'_ 'resize', 'scale'_ 0.5.png",carrier_0bit_test,-338372.21875,-0.09179377393520746,0.1905198079218643,False
+15,"0_'attack'_ 'center_crop', 'scale'_ 0.30000000000000004.png",carrier_0bit_test,-795588.75,-0.08123196530084835,0.17059235389741634,False
+23,"0_'attack'_ 'contrast', 'contrast_factor'_ 0.0.png",carrier_0bit_test,-43507.12890625,-0.06586725609028578,0.14072387731830627,False
+49,"0_'attack'_ 'resize', 'scale'_ 0.30000000000000004.png",carrier_0bit_test,-548596.0,-0.06401202001501807,0.13704533665245122,False
+31,"0_'attack'_ 'hue', 'hue_factor'_ 0.2.png",carrier_0bit_test,-647638.9375,-0.06200886696974498,0.133055824780398,False
+12,"0_'attack'_ 'brightness', 'brightness_factor'_ 2.0.png",carrier_0bit_test,-753391.6875,-0.048172647157584264,0.10499110233818343,False
+65,"0_'attack'_ 'rotation', 'angle'_ 5.png",carrier_0bit_test,-402639.25,-0.030382512523328277,0.06756731750501654,False
+18,"0_'attack'_ 'center_crop', 'scale'_ 0.6000000000000001.png",carrier_0bit_test,-494170.0,-0.029715825418055612,0.066134837338368,False
+17,"0_'attack'_ 'center_crop', 'scale'_ 0.5.png",carrier_0bit_test,-540129.9375,-0.02475302712260042,0.0554021062089759,False
+27,"0_'attack'_ 'contrast', 'contrast_factor'_ 2.0.png",carrier_0bit_test,-289749.125,-0.023287692652126,0.0522095959547626,False
+44,0_'attack'_ 'meme_format'.png,carrier_0bit_test,-194046.265625,-0.012292181616123419,0.027906994229037863,False
+32,"0_'attack'_ 'hue', 'hue_factor'_ 0.25.png",carrier_0bit_test,-575069.375,-0.0038555868847289436,0.008838525429282429,False
+0,"0_'attack'_ 'blur', 'kernel_size'_ 11.png",carrier_multibit_2026_Watermark,,,,False
+1,"0_'attack'_ 'blur', 'kernel_size'_ 13.png",carrier_multibit_2026_Watermark,,,,False
+2,"0_'attack'_ 'blur', 'kernel_size'_ 15.png",carrier_multibit_2026_Watermark,,,,False
+3,"0_'attack'_ 'blur', 'kernel_size'_ 17.png",carrier_multibit_2026_Watermark,,,,False
+4,"0_'attack'_ 'blur', 'kernel_size'_ 19.png",carrier_multibit_2026_Watermark,,,,False
+5,"0_'attack'_ 'blur', 'kernel_size'_ 3.png",carrier_multibit_2026_Watermark,,,,False
+6,"0_'attack'_ 'blur', 'kernel_size'_ 5.png",carrier_multibit_2026_Watermark,,,,False
+7,"0_'attack'_ 'blur', 'kernel_size'_ 7.png",carrier_multibit_2026_Watermark,,,,False
+8,"0_'attack'_ 'blur', 'kernel_size'_ 9.png",carrier_multibit_2026_Watermark,,,,False
+9,"0_'attack'_ 'brightness', 'brightness_factor'_ 0.5.png",carrier_multibit_2026_Watermark,,,,False
+10,"0_'attack'_ 'brightness', 'brightness_factor'_ 1.0.png",carrier_multibit_2026_Watermark,,,,False
+11,"0_'attack'_ 'brightness', 'brightness_factor'_ 1.5.png",carrier_multibit_2026_Watermark,,,,False
+12,"0_'attack'_ 'brightness', 'brightness_factor'_ 2.0.png",carrier_multibit_2026_Watermark,,,,False
+13,"0_'attack'_ 'center_crop', 'scale'_ 0.1.png",carrier_multibit_2026_Watermark,,,,False
+14,"0_'attack'_ 'center_crop', 'scale'_ 0.2.png",carrier_multibit_2026_Watermark,,,,False
+15,"0_'attack'_ 'center_crop', 'scale'_ 0.30000000000000004.png",carrier_multibit_2026_Watermark,,,,False
+16,"0_'attack'_ 'center_crop', 'scale'_ 0.4.png",carrier_multibit_2026_Watermark,,,,False
+17,"0_'attack'_ 'center_crop', 'scale'_ 0.5.png",carrier_multibit_2026_Watermark,,,,False
+18,"0_'attack'_ 'center_crop', 'scale'_ 0.6000000000000001.png",carrier_multibit_2026_Watermark,,,,False
+19,"0_'attack'_ 'center_crop', 'scale'_ 0.7000000000000001.png",carrier_multibit_2026_Watermark,,,,False
+20,"0_'attack'_ 'center_crop', 'scale'_ 0.8.png",carrier_multibit_2026_Watermark,,,,False
+21,"0_'attack'_ 'center_crop', 'scale'_ 0.9.png",carrier_multibit_2026_Watermark,,,,False
+22,"0_'attack'_ 'center_crop', 'scale'_ 1.0.png",carrier_multibit_2026_Watermark,,,,False
+23,"0_'attack'_ 'contrast', 'contrast_factor'_ 0.0.png",carrier_multibit_2026_Watermark,,,,False
+24,"0_'attack'_ 'contrast', 'contrast_factor'_ 0.5.png",carrier_multibit_2026_Watermark,,,,False
+25,"0_'attack'_ 'contrast', 'contrast_factor'_ 1.0.png",carrier_multibit_2026_Watermark,,,,False
+26,"0_'attack'_ 'contrast', 'contrast_factor'_ 1.5.png",carrier_multibit_2026_Watermark,,,,False
+27,"0_'attack'_ 'contrast', 'contrast_factor'_ 2.0.png",carrier_multibit_2026_Watermark,,,,False
+28,"0_'attack'_ 'hue', 'hue_factor'_ -0.25.png",carrier_multibit_2026_Watermark,,,,False
+29,"0_'attack'_ 'hue', 'hue_factor'_ -0.5.png",carrier_multibit_2026_Watermark,,,,False
+30,"0_'attack'_ 'hue', 'hue_factor'_ 0.0.png",carrier_multibit_2026_Watermark,,,,False
+31,"0_'attack'_ 'hue', 'hue_factor'_ 0.2.png",carrier_multibit_2026_Watermark,,,,False
+32,"0_'attack'_ 'hue', 'hue_factor'_ 0.25.png",carrier_multibit_2026_Watermark,,,,False
+33,"0_'attack'_ 'hue', 'hue_factor'_ 0.5.png",carrier_multibit_2026_Watermark,,,,False
+34,"0_'attack'_ 'jpeg', 'quality'_ 10.png",carrier_multibit_2026_Watermark,,,,False
+35,"0_'attack'_ 'jpeg', 'quality'_ 100.png",carrier_multibit_2026_Watermark,,,,False
+36,"0_'attack'_ 'jpeg', 'quality'_ 20.png",carrier_multibit_2026_Watermark,,,,False
+37,"0_'attack'_ 'jpeg', 'quality'_ 30.png",carrier_multibit_2026_Watermark,,,,False
+38,"0_'attack'_ 'jpeg', 'quality'_ 40.png",carrier_multibit_2026_Watermark,,,,False
+39,"0_'attack'_ 'jpeg', 'quality'_ 50.png",carrier_multibit_2026_Watermark,,,,False
+40,"0_'attack'_ 'jpeg', 'quality'_ 60.png",carrier_multibit_2026_Watermark,,,,False
+41,"0_'attack'_ 'jpeg', 'quality'_ 70.png",carrier_multibit_2026_Watermark,,,,False
+42,"0_'attack'_ 'jpeg', 'quality'_ 80.png",carrier_multibit_2026_Watermark,,,,False
+43,"0_'attack'_ 'jpeg', 'quality'_ 90.png",carrier_multibit_2026_Watermark,,,,False
+44,0_'attack'_ 'meme_format'.png,carrier_multibit_2026_Watermark,,,,False
+45,0_'attack'_ 'none'.png,carrier_multibit_2026_Watermark,,,,False
+46,0_'attack'_ 'overlay_onto_screenshot'.png,carrier_multibit_2026_Watermark,,,,False
+47,"0_'attack'_ 'resize', 'scale'_ 0.1.png",carrier_multibit_2026_Watermark,,,,False
+48,"0_'attack'_ 'resize', 'scale'_ 0.2.png",carrier_multibit_2026_Watermark,,,,False
+49,"0_'attack'_ 'resize', 'scale'_ 0.30000000000000004.png",carrier_multibit_2026_Watermark,,,,False
+50,"0_'attack'_ 'resize', 'scale'_ 0.4.png",carrier_multibit_2026_Watermark,,,,False
+51,"0_'attack'_ 'resize', 'scale'_ 0.5.png",carrier_multibit_2026_Watermark,,,,False
+52,"0_'attack'_ 'resize', 'scale'_ 0.6000000000000001.png",carrier_multibit_2026_Watermark,,,,False
+53,"0_'attack'_ 'resize', 'scale'_ 0.7000000000000001.png",carrier_multibit_2026_Watermark,,,,False
+54,"0_'attack'_ 'resize', 'scale'_ 0.8.png",carrier_multibit_2026_Watermark,,,,False
+55,"0_'attack'_ 'resize', 'scale'_ 0.9.png",carrier_multibit_2026_Watermark,,,,False
+56,"0_'attack'_ 'resize', 'scale'_ 1.0.png",carrier_multibit_2026_Watermark,,,,False
+57,"0_'attack'_ 'rotation', 'angle'_ 0.png",carrier_multibit_2026_Watermark,,,,False
+58,"0_'attack'_ 'rotation', 'angle'_ 10.png",carrier_multibit_2026_Watermark,,,,False
+59,"0_'attack'_ 'rotation', 'angle'_ 15.png",carrier_multibit_2026_Watermark,,,,False
+60,"0_'attack'_ 'rotation', 'angle'_ 20.png",carrier_multibit_2026_Watermark,,,,False
+61,"0_'attack'_ 'rotation', 'angle'_ 25.png",carrier_multibit_2026_Watermark,,,,False
+62,"0_'attack'_ 'rotation', 'angle'_ 30.png",carrier_multibit_2026_Watermark,,,,False
+63,"0_'attack'_ 'rotation', 'angle'_ 35.png",carrier_multibit_2026_Watermark,,,,False
+64,"0_'attack'_ 'rotation', 'angle'_ 40.png",carrier_multibit_2026_Watermark,,,,False
+65,"0_'attack'_ 'rotation', 'angle'_ 5.png",carrier_multibit_2026_Watermark,,,,False
+66,0_out.png,carrier_multibit_2026_Watermark,,,,False
+67,1_out.png,carrier_multibit_2026_Watermark,,,,False
+68,2_out.png,carrier_multibit_2026_Watermark,,,,False
+69,3_out.png,carrier_multibit_2026_Watermark,,,,False
+70,4_out.png,carrier_multibit_2026_Watermark,,,,False
+71,5_out.png,carrier_multibit_2026_Watermark,,,,False
+72,6_out.png,carrier_multibit_2026_Watermark,,,,False
+73,7_out.png,carrier_multibit_2026_Watermark,,,,False
+74,8_out.png,carrier_multibit_2026_Watermark,,,,False
+0,"0_'attack'_ 'blur', 'kernel_size'_ 11.png",carrier_multibit_test,,,,False
+1,"0_'attack'_ 'blur', 'kernel_size'_ 13.png",carrier_multibit_test,,,,False
+2,"0_'attack'_ 'blur', 'kernel_size'_ 15.png",carrier_multibit_test,,,,False
+3,"0_'attack'_ 'blur', 'kernel_size'_ 17.png",carrier_multibit_test,,,,False
+4,"0_'attack'_ 'blur', 'kernel_size'_ 19.png",carrier_multibit_test,,,,False
+5,"0_'attack'_ 'blur', 'kernel_size'_ 3.png",carrier_multibit_test,,,,False
+6,"0_'attack'_ 'blur', 'kernel_size'_ 5.png",carrier_multibit_test,,,,False
+7,"0_'attack'_ 'blur', 'kernel_size'_ 7.png",carrier_multibit_test,,,,False
+8,"0_'attack'_ 'blur', 'kernel_size'_ 9.png",carrier_multibit_test,,,,False
+9,"0_'attack'_ 'brightness', 'brightness_factor'_ 0.5.png",carrier_multibit_test,,,,False
+10,"0_'attack'_ 'brightness', 'brightness_factor'_ 1.0.png",carrier_multibit_test,,,,False
+11,"0_'attack'_ 'brightness', 'brightness_factor'_ 1.5.png",carrier_multibit_test,,,,False
+12,"0_'attack'_ 'brightness', 'brightness_factor'_ 2.0.png",carrier_multibit_test,,,,False
+13,"0_'attack'_ 'center_crop', 'scale'_ 0.1.png",carrier_multibit_test,,,,False
+14,"0_'attack'_ 'center_crop', 'scale'_ 0.2.png",carrier_multibit_test,,,,False
+15,"0_'attack'_ 'center_crop', 'scale'_ 0.30000000000000004.png",carrier_multibit_test,,,,False
+16,"0_'attack'_ 'center_crop', 'scale'_ 0.4.png",carrier_multibit_test,,,,False
+17,"0_'attack'_ 'center_crop', 'scale'_ 0.5.png",carrier_multibit_test,,,,False
+18,"0_'attack'_ 'center_crop', 'scale'_ 0.6000000000000001.png",carrier_multibit_test,,,,False
+19,"0_'attack'_ 'center_crop', 'scale'_ 0.7000000000000001.png",carrier_multibit_test,,,,False
+20,"0_'attack'_ 'center_crop', 'scale'_ 0.8.png",carrier_multibit_test,,,,False
+21,"0_'attack'_ 'center_crop', 'scale'_ 0.9.png",carrier_multibit_test,,,,False
+22,"0_'attack'_ 'center_crop', 'scale'_ 1.0.png",carrier_multibit_test,,,,False
+23,"0_'attack'_ 'contrast', 'contrast_factor'_ 0.0.png",carrier_multibit_test,,,,False
+24,"0_'attack'_ 'contrast', 'contrast_factor'_ 0.5.png",carrier_multibit_test,,,,False
+25,"0_'attack'_ 'contrast', 'contrast_factor'_ 1.0.png",carrier_multibit_test,,,,False
+26,"0_'attack'_ 'contrast', 'contrast_factor'_ 1.5.png",carrier_multibit_test,,,,False
+27,"0_'attack'_ 'contrast', 'contrast_factor'_ 2.0.png",carrier_multibit_test,,,,False
+28,"0_'attack'_ 'hue', 'hue_factor'_ -0.25.png",carrier_multibit_test,,,,False
+29,"0_'attack'_ 'hue', 'hue_factor'_ -0.5.png",carrier_multibit_test,,,,False
+30,"0_'attack'_ 'hue', 'hue_factor'_ 0.0.png",carrier_multibit_test,,,,False
+31,"0_'attack'_ 'hue', 'hue_factor'_ 0.2.png",carrier_multibit_test,,,,False
+32,"0_'attack'_ 'hue', 'hue_factor'_ 0.25.png",carrier_multibit_test,,,,False
+33,"0_'attack'_ 'hue', 'hue_factor'_ 0.5.png",carrier_multibit_test,,,,False
+34,"0_'attack'_ 'jpeg', 'quality'_ 10.png",carrier_multibit_test,,,,False
+35,"0_'attack'_ 'jpeg', 'quality'_ 100.png",carrier_multibit_test,,,,False
+36,"0_'attack'_ 'jpeg', 'quality'_ 20.png",carrier_multibit_test,,,,False
+37,"0_'attack'_ 'jpeg', 'quality'_ 30.png",carrier_multibit_test,,,,False
+38,"0_'attack'_ 'jpeg', 'quality'_ 40.png",carrier_multibit_test,,,,False
+39,"0_'attack'_ 'jpeg', 'quality'_ 50.png",carrier_multibit_test,,,,False
+40,"0_'attack'_ 'jpeg', 'quality'_ 60.png",carrier_multibit_test,,,,False
+41,"0_'attack'_ 'jpeg', 'quality'_ 70.png",carrier_multibit_test,,,,False
+42,"0_'attack'_ 'jpeg', 'quality'_ 80.png",carrier_multibit_test,,,,False
+43,"0_'attack'_ 'jpeg', 'quality'_ 90.png",carrier_multibit_test,,,,False
+44,0_'attack'_ 'meme_format'.png,carrier_multibit_test,,,,False
+45,0_'attack'_ 'none'.png,carrier_multibit_test,,,,False
+46,0_'attack'_ 'overlay_onto_screenshot'.png,carrier_multibit_test,,,,False
+47,"0_'attack'_ 'resize', 'scale'_ 0.1.png",carrier_multibit_test,,,,False
+48,"0_'attack'_ 'resize', 'scale'_ 0.2.png",carrier_multibit_test,,,,False
+49,"0_'attack'_ 'resize', 'scale'_ 0.30000000000000004.png",carrier_multibit_test,,,,False
+50,"0_'attack'_ 'resize', 'scale'_ 0.4.png",carrier_multibit_test,,,,False
+51,"0_'attack'_ 'resize', 'scale'_ 0.5.png",carrier_multibit_test,,,,False
+52,"0_'attack'_ 'resize', 'scale'_ 0.6000000000000001.png",carrier_multibit_test,,,,False
+53,"0_'attack'_ 'resize', 'scale'_ 0.7000000000000001.png",carrier_multibit_test,,,,False
+54,"0_'attack'_ 'resize', 'scale'_ 0.8.png",carrier_multibit_test,,,,False
+55,"0_'attack'_ 'resize', 'scale'_ 0.9.png",carrier_multibit_test,,,,False
+56,"0_'attack'_ 'resize', 'scale'_ 1.0.png",carrier_multibit_test,,,,False
+57,"0_'attack'_ 'rotation', 'angle'_ 0.png",carrier_multibit_test,,,,False
+58,"0_'attack'_ 'rotation', 'angle'_ 10.png",carrier_multibit_test,,,,False
+59,"0_'attack'_ 'rotation', 'angle'_ 15.png",carrier_multibit_test,,,,False
+60,"0_'attack'_ 'rotation', 'angle'_ 20.png",carrier_multibit_test,,,,False
+61,"0_'attack'_ 'rotation', 'angle'_ 25.png",carrier_multibit_test,,,,False
+62,"0_'attack'_ 'rotation', 'angle'_ 30.png",carrier_multibit_test,,,,False
+63,"0_'attack'_ 'rotation', 'angle'_ 35.png",carrier_multibit_test,,,,False
+64,"0_'attack'_ 'rotation', 'angle'_ 40.png",carrier_multibit_test,,,,False
+65,"0_'attack'_ 'rotation', 'angle'_ 5.png",carrier_multibit_test,,,,False
+66,0_out.png,carrier_multibit_test,,,,False
+67,1_out.png,carrier_multibit_test,,,,False
+68,2_out.png,carrier_multibit_test,,,,False
+69,3_out.png,carrier_multibit_test,,,,False
+70,4_out.png,carrier_multibit_test,,,,False
+71,5_out.png,carrier_multibit_test,,,,False
+72,6_out.png,carrier_multibit_test,,,,False
+73,7_out.png,carrier_multibit_test,,,,False
+74,8_out.png,carrier_multibit_test,,,,False
