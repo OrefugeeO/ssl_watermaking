@@ -165,7 +165,6 @@ ssl_watermarking/
 ├── utils.py                      # 通用工具函数（模型加载、载体生成等）
 ├── utils_img.py                  # 图像处理工具函数
 ├── video_utils.py                # 视频处理工具函数
-├── generate_paper.py             # 学术论文自动生成脚本
 ├── requirements.txt              # Python 依赖清单
 ├── cmd.txt                       # 命令行示例参考
 ├── models/                       # 预训练模型存放目录
